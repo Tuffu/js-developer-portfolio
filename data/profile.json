@@ -1,7 +1,7 @@
 {
   "name": "Lucas Paes de Oliveira",
   "photo": "https://avatars.githubusercontent.com/u/56046151?s=400&u=f3570d2b964cfac2209101673d7662a788a1ceae&v=4",
-  "job": "Front-end developers / IT Operation analyst",
+  "job": "Front-end developer / IT Operation analyst",
   "location": "Barueri - SP",
   "phone": "(11) 99423-8107",
   "email": "lucaspaes55@gmail.com",
@@ -12,29 +12,29 @@
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
       },
       {
-        "name": "Java",
+        "name": "Css",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
       },
       {
-        "name": "Angular",
+        "name": "HTML",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
       },
       {
-        "name": "React",
+        "name": "Csharp",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/csharp.png"
       },
       {
-        "name": "Mongodb",
+        "name": "MySql",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mysql.png"
       },
       {
-        "name": "Postgresql",
+        "name": "Java",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
       }
     ],
     "softSkills": [
       "Empatia",
-      "Liderança",
+      "Boa comunicação",
       "Trabalho em equipe",
       "Flexibilidade",
       "Organização"
@@ -46,13 +46,13 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Projeto DIO para a criação de uma Pokedex",
+      "url": "https://github.com/Tuffu/js-developer-pokedex",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Projeto na DIO para a criação de uma página de portfolio",
+      "url": "https://github.com/Tuffu/js-developer-portfolio",
       "github": true
     }
   ],
