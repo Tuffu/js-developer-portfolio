@@ -1,7 +1,7 @@
 {
   "name": "Lucas Paes de Oliveira",
   "photo": "https://avatars.githubusercontent.com/u/56046151?s=400&u=f3570d2b964cfac2209101673d7662a788a1ceae&v=4",
-  "job": "Front-end developer / IT Operation analyst",
+  "job": "Front-end developer / IT operation analyst",
   "location": "Barueri - SP",
   "phone": "(11) 99423-8107",
   "email": "lucaspaes55@gmail.com",
@@ -42,7 +42,7 @@
   },
   "languages": [
     "Português BR",
-    "Inglês (Básico)"
+    "Inglês (Intermediário)"
   ],
   "portfolio": [
     {
@@ -64,8 +64,8 @@
     },
     {
       "name": "Help desk - Suporte / Hayashi Informática",
-      "period": "2020 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "period": "10/2020 - 12/2022",
+      "description": "Realizava suporte no sistema da empresa para clientes; montagem e manutenção de computadores; configuração de sistema NAS; visita técnica em clientes para efetuar a instalação do sistema e configurações de computadores; criação do site da empresa e de clientes utilizando HTML, CSS e JavaScript, hospedando-o na plataforma Hostgator."
     }
   ]
 }
